@@ -1,0 +1,16 @@
+{
+    "name": "lakshay/permissions",
+    "description": "A laravel package based on Spatie's Laravel Permission package to ease up the use in multiple models that should be guarded from Users.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lakshay Verma",
+            "email": "lakshay.verma@walkwel.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spatie/laravel-permission": "^2.7"
+    }
+}
